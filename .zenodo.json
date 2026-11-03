@@ -1,0 +1,21 @@
+{
+  "description": "Universal Structural Amnesia: A 27-Year Temporal Forensics Study of Credential Exposure in Critical Infrastructure. Independent security research on the systematic reintroduction of previously mitigated authentication and credential exposure vulnerabilities. All organization names generalized. DO NO HARM.",
+  "keywords": [
+    "security research",
+    "temporal forensics",
+    "credential exposure",
+    "vulnerability regression",
+    "infrastructure archaeology",
+    "ghosthunter"
+  ],
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Brink, Mark Steven",
+      "affiliation": "Independent Researcher, Phoenix, Arizona",
+      "orcid": "0009-0006-3346-6300"
+    }
+  ],
+  "access_right": "open",
+  "notes": "Names have been changed in this edition; any reproduction must keep them changed. Re-identification of targets is prohibited."
+}
