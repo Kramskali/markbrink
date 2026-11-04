@@ -14,6 +14,8 @@ Format: DATE | ARTIFACT | STATUS | EVIDENCE
 2026-11-04 | Structural Amnesia paper redacted for publication (names generalized, DO NO HARM posture) | DRAFT-READY | session file structural_amnesia_redacted.txt
 2026-11-04 | Landing page aligned to ORCID bio evidentiary posture | LIVE | commit a633519 on Kramskali/markbrink
 2026-11-04 | .zenodo.json with ORCID-linked creator record | IN REPO | Kramskali/markbrink
+2026-11-04 | All five public papers verified live against Zenodo/SSRN records | VERIFIED | Zenodo 23874605, 23803612, 23848058; SSRN 7083678; ORCID
+2026-11-04 | Coupling ledger added to public record (page as proof-of-coupling exhibit) | LIVE | LOG.md + commit ab2ddfb
 
 ---
 
