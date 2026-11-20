@@ -16,6 +16,9 @@ Format: DATE | ARTIFACT | STATUS | EVIDENCE
 2026-11-04 | .zenodo.json with ORCID-linked creator record | IN REPO | Kramskali/markbrink
 2026-11-04 | All five public papers verified live against Zenodo/SSRN records | VERIFIED | Zenodo 23874605, 23803612, 23848058; SSRN 7083678; ORCID
 2026-11-04 | Coupling ledger added to public record (page as proof-of-coupling exhibit) | LIVE | LOG.md + commit ab2ddfb
+2026-11-20 | nightwatch.py built and deployed on lab box: BLE+git+dir+screen journal lanes, systemd screen service, cron passes | LIVE | Kali box, systemd unit nightwatch-screen.service
+2026-11-20 | Drive sync lane: journal + status pushed via rclone, verified end-to-end (AI read status back from Drive) | LIVE | Drive folder nightwatch, rclone remote gdrive
+2026-11-20 | Publication record audit: 4 Zenodo DOIs + 1 SSRN verified live in registries; ORCID lists 5 works | VERIFIED | DataCite 23848058, 23803612, 23874605, 24094108; Crossref 10.2139/ssrn.7083678
 
 ---
 
