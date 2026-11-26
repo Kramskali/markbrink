@@ -1,5 +1,5 @@
 # Mark Steven Brink - Master Profile Binder
-### November 2026 - Complete Edition, rev. 6
+### November 2026 - Complete Edition, rev. 7
 
 **Biotechnology consulting and management | security research | systems building**
 
@@ -17,7 +17,7 @@
 
 **Best first conversation:** Show the asset, not the pitch. White paper, GhostHunter summary, or a working tool demo - then scope, IP position, next milestone.
 
-*Rev. 6: cut the ambient energy harvester entry entirely - unverified claims stay out of the binder regardless of personal conviction; the build continues off-page and earns its way back in only with measured output. Rev. 5: removed the unfiled MARS LIFE FORCE patent-pending claim (only 64/190,209 is filed); corrected public repository count to ten and completed the repo table. Rev. 4: tightened to introduction length. Detail sections cut or compressed; the full tooling catalogue, protocol mechanics, and platform history live in the cited papers and repos. Rev. 3 recorded the coupling white paper's Zenodo publication (DOI 10.5281/zenodo.24094108), the live landing page, and the current public repository set.*
+*Rev. 7: corrected the Greek Corruption subtitle to match the deposited SSRN record (Structural Incompatibility of Logocentric Capture). Rev. 6: cut the ambient energy harvester entry entirely - unverified claims stay out of the binder regardless of personal conviction; the build continues off-page and earns its way back in only with measured output. Rev. 5: removed the unfiled MARS LIFE FORCE patent-pending claim (only 64/190,209 is filed); corrected public repository count to ten and completed the repo table. Rev. 4: tightened to introduction length. Detail sections cut or compressed; the full tooling catalogue, protocol mechanics, and platform history live in the cited papers and repos. Rev. 3 recorded the coupling white paper's Zenodo publication (DOI 10.5281/zenodo.24094108), the live landing page, and the current public repository set.*
 
 ---
 
@@ -115,7 +115,7 @@ Temporal forensics over 27 years of archived web data (1998-2025): 29 targets in
 
 ## The Greek Corruption of Egypt - complete research paper
 
-*Greek Corruption of Egypt: Hellenization, Power, and Cultural Erosion in the Ptolemaic and Roman Periods* - Mark Steven Brink, July 2026, ORCID 0009-0006-3346-6300. Complete 10-page paper. SSRN preprint 7083678.
+*Greek Corruption of Egypt: Hellenization, Power, and the Structural Incompatibility of Logocentric Capture* - Mark Steven Brink, July 2026, ORCID 0009-0006-3346-6300. Complete 10-page paper. SSRN preprint 7083678.
 
 > **Thesis.** Greek logocentric, phonocentric systems structurally could not hold Egyptian meaning; the corruption introduced in the Ptolemaic and Roman periods persists in modern Egyptology, Unicode encoding, and museum labeling.
 
