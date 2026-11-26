@@ -1,5 +1,5 @@
 # Mark Steven Brink - Master Profile Binder
-### November 2026 - Complete Edition, rev. 5
+### November 2026 - Complete Edition, rev. 6
 
 **Biotechnology consulting and management | security research | systems building**
 
@@ -17,7 +17,7 @@
 
 **Best first conversation:** Show the asset, not the pitch. White paper, GhostHunter summary, or a working tool demo - then scope, IP position, next milestone.
 
-*Rev. 5: removed the Hendershot name and labeled the ambient harvester as speculative concept-stage; removed the unfiled MARS LIFE FORCE patent-pending claim (only 64/190,209 is filed); corrected public repository count to ten and completed the repo table. Rev. 4: tightened to introduction length. Detail sections cut or compressed; the full tooling catalogue, protocol mechanics, and platform history live in the cited papers and repos. Rev. 3 recorded the coupling white paper's Zenodo publication (DOI 10.5281/zenodo.24094108), the live landing page, and the current public repository set.*
+*Rev. 6: cut the ambient energy harvester entry entirely - unverified claims stay out of the binder regardless of personal conviction; the build continues off-page and earns its way back in only with measured output. Rev. 5: removed the unfiled MARS LIFE FORCE patent-pending claim (only 64/190,209 is filed); corrected public repository count to ten and completed the repo table. Rev. 4: tightened to introduction length. Detail sections cut or compressed; the full tooling catalogue, protocol mechanics, and platform history live in the cited papers and repos. Rev. 3 recorded the coupling white paper's Zenodo publication (DOI 10.5281/zenodo.24094108), the live landing page, and the current public repository set.*
 
 ---
 
@@ -42,7 +42,7 @@ Mark works across biotechnology consulting/management and hands-on technical bui
 
 ## Infrastructure programme
 
-*Eight codenamed builds. Each removes a single point of institutional trust. Together they describe one pattern: operational regardless.*
+*Seven codenamed builds. Each removes a single point of institutional trust. Together they describe one pattern: operational regardless.*
 
 **THE FORGE / PROJECT FOUNDATION - biometric custody.** Custody that does not trust centralised identity: a bioimpedance-encoded grip-pattern identity artifact (INGOT A) plus hardware security module (INGOT B) and recovery (INGOT C), 2-of-2 Schnorr signing, covert duress detection via bioimpedance stress signature. Working implementation in Rust (firmware) and Solidity (smart contract).
 
@@ -57,8 +57,6 @@ Mark works across biotechnology consulting/management and hands-on technical bui
 **THE WATCH - security monitoring.** Continuous monitoring across network nodes, biometric systems, and infrastructure; temporal-forensics feeds to the GhostHunter engine; duress detection on the identity layer.
 
 **LIGHT SABER / SKYWALKER - Mars construction tool.** Thermite/oxygen lance cutting 3-inch steel at 250g payload, biometric grip authorization, Mars-compatible ambient-energy ignition. Concept locked; prototype pending material sourcing.
-
-**Ambient energy harvester - concept stage.** 2kg superconducting-coil design targeting 7.5W from ambient energy, Mars-optimized. Speculative: no verified output under controlled conditions yet; included as a research direction, not a demonstrated device. Shared power technology across MARS LIFE FORCE and SKYWALKER.
 
 ---
 
